@@ -1,4 +1,5 @@
 # Tailwind Traders Capstone Project Overview
+### Dashboard : ![Dashboard](https://github.com/AshishLakkapatri/Power-BI-Report-and-Dashboard-Project/assets/69083448/e23731ce-016f-44b6-b26a-de97c0d5d855)
 
 ## Project Title:
 Tailwind Traders Capstone Project - Comprehensive Data Preparation, Configuration, Aggregations, and Visualization
