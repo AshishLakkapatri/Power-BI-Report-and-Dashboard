@@ -1,3 +1,12 @@
+# Power BI Analytics Project: Tailwind Traders
+
+## Overview
+Welcome to the Tailwind Traders Power BI Analytics Project! This repository serves as a comprehensive resource hub for immersing yourself in the world of data analysis tailored for Tailwind Traders a fictitious company, a dynamic business entity. As a Power BI analyst, I have embarked on a data-driven journey, addressing key business questions and uncovering valuable insights within the Tailwind Traders ecosystem.
+
+## Project Objectives
+This Power BI project is designed to provide me with hands-on experience in leveraging Power BI analytics for meaningful business insights. Throughout the project, I'll navigate through real-world tasks, engaging with diverse scenarios and stakeholders. By the project's conclusion, I will have developed a polished and insightful Power BI report, showcasing my proficiency in data visualization and analysis specifically tailored for Tailwind Traders.
+
+
 # Tailwind Traders Capstone Project Overview
 ### Dashboard : ![Dashboard](https://github.com/AshishLakkapatri/Power-BI-Report-and-Dashboard-Project/assets/69083448/e23731ce-016f-44b6-b26a-de97c0d5d855)
 
