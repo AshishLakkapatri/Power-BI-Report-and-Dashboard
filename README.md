@@ -7,7 +7,7 @@ Tailwind Traders Capstone Project - Comprehensive Data Preparation, Configuratio
 ## Project Phases:
 
 1. **Data Preparation and Configuration:**
-   - Downloaded Sales data from Tailwind Traders Excel workbook.
+   - Downloaded Sales data.
    - Calculated Gross Revenue, Total Tax, and Net Revenue.
    - Loaded and transformed data using Power BI and Power Query.
    - Integrated Historical Currency Exchange data.
