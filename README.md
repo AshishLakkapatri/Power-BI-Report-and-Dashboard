@@ -8,6 +8,9 @@ This Power BI project is designed to provide me with hands-on experience in leve
 
 
 # Tailwind Traders Capstone Project Overview
+### Report : ![Sales_Overview](https://github.com/AshishLakkapatri/Microsoft-Power-BI-Data-Analyst-Capstone---Tailwind-Traders-Power-BI-Report-and-Dashboard/assets/69083448/b2be27f9-9dc6-4d3c-8463-4817663e0aae)
+![Profit_Overview](https://github.com/AshishLakkapatri/Microsoft-Power-BI-Data-Analyst-Capstone---Tailwind-Traders-Power-BI-Report-and-Dashboard/assets/69083448/41c0ae9e-692f-4e2a-8740-877ac5425761)
+
 ### Dashboard : ![Dashboard](https://github.com/AshishLakkapatri/Power-BI-Report-and-Dashboard-Project/assets/69083448/e23731ce-016f-44b6-b26a-de97c0d5d855)
 
 ## Project Title:
